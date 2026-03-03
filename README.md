@@ -7,7 +7,7 @@ Inspired by IEEE Spectrum coverage of aeroderivative turbines used for data-cent
 ## Project Overview
 
 This repository contains:
-- A control-oriented Simulink plant model of an aeroderivative turbine–generator system (Day 1)
+- A control-oriented Simulink plant model of an aeroderivative turbine–generator system
 - A native C++ embedded supervisory controller skeleton implementing state-based turbine logic
 
 The embedded implementation focuses on decision logic and fuel command scheduling,
