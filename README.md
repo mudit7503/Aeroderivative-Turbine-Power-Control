@@ -12,3 +12,5 @@ This repository contains:
 
 The embedded implementation focuses on decision logic and fuel command scheduling,
 independent of low-level control tuning.
+
+[References folder](./references/)
