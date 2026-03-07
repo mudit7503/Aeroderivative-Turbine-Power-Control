@@ -104,4 +104,4 @@ This implementation prioritizes:
 - Architecture over tuning
 - Safety over performance
 
-It is intended as a **foundation**, not a finished controller.
+It is intended as a **foundation**, ain't a finished controller.
